@@ -98,6 +98,8 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computational biology and Systems Immunology (CoSI)"
   location         : "CTI, UMC Utrecht"
+  googlescholar    : "https://scholar.google.com/citations?user=y9_4y3IAAAAJ"
+  pubmed           : ""
   keywords         : "Bioinformatics, Immunology, T cell repertoire, Systems biology, Autoimmune diseases, HIV"
   links:
     - label: "Email"
