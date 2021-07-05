@@ -98,7 +98,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computational biology and Systems Immunology (CoSI)"
   location         : "CTI, UMC Utrecht"
-  email            :
+  keywords         : "Bioinformatics, Immunology, T cell repertoire, Systems biology, Autoimmune diseases, HIV"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
